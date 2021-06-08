@@ -10,6 +10,10 @@ Dataset release: TBD
 
 Code release: TBD
 
+### License 
+
+This dataset inherits the license of Argoverse 1.1: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (“CC BY-NC-SA 4.0”), as indicated [here](https://www.argoverse.org/about.html#terms-of-use).
+
 ## Instructions for Submitting a Benchmark
 
 TBD
