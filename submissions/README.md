@@ -17,6 +17,6 @@ Use `check_submission_format.py` to check the format of your submission.
 
 ### Submission Link
 
-We will host a server that accepts and evaluates submissions. 
+Our evaluation server will be hosted by EvalAI and is under construction.
 
 Please check back at a later date (last updated 7/12).
