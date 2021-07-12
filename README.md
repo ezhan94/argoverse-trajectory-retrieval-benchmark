@@ -4,7 +4,9 @@ This is the main page for the Argoverse Trajectory Retrieval Benchmark dataset.
 
 ## Data
 
-Trajectory data can be downloaded from [Argoverse Motion Forecasting dataset](https://www.argoverse.org/data.html).
+Trajectory data comes from the [Argoverse Motion Forecasting dataset](https://www.argoverse.org/data.html#forecasting-link), which can be downloaded from [here](https://www.argoverse.org/data.html#download-link). 
+
+[Tutorials](https://github.com/argoai/argoverse-api) are available for working with maps and visualizing trajectories.
 
 Our intent labels and query and retrieval sets can be found in [data/](data).
 
@@ -12,7 +14,7 @@ Our intent labels and query and retrieval sets can be found in [data/](data).
 
 We've included details for submissions in [submissions/](submissions).
 
-Please check back at a later date for the submission link.
+Our evaluation server will be hosted by EvalAI and is under construction. Please check back at a later date for the submission link.
 
 ## Supplementary Materials
 
